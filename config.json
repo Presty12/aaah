@@ -1,0 +1,36 @@
+{
+    
+    "erkekRoller": ["", ""],
+    "kadınRolleri": ["", ""],
+    "erkek": "",
+    "kadın": "",
+    "kayıtYetkilisi": ["", ""],
+
+
+    "tag": "",
+    "unTag": "",
+    "footer": "",
+    
+
+    "boosterRolü": "",
+    "tagRolü": "",
+    "vipRolü": "",
+
+
+    "Suspicious": "",
+    "kayıtsızRolü": "",
+
+
+    "welcomeChannel": "",
+    "botVoiceChannel": "",
+
+
+    "yes": "✅",
+    "no": "❌",
+    
+
+    "token": "",
+    "owner": "",
+    "prefix": "."
+
+}
